@@ -2,7 +2,7 @@
 
 ```bash
 # Using bunx instead of using npx or pnpm dlx
-bunx create-svelte
+bun create svelte@latest your_app
 
 #Move to your app directory
 cd your_app/
